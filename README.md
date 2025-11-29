@@ -1,4 +1,6 @@
 # CryptoAnalysis
+![image alt](image_url)
+
 🇬🇧 README (English Version)
 
 📌 Project: Real-Time Cryptocurrency Analysis with Python
