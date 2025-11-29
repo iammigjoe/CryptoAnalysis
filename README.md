@@ -1,5 +1,5 @@
 # CryptoAnalysis
-![image alt](image_url)
+![image alt](https://github.com/iammigjoe/CryptoAnalysis/blob/main/crypto-par-2.png?raw=true)
 
 🇬🇧 README (English Version)
 
